@@ -1,6 +1,6 @@
 {
   "name": "@web-platform/data",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "",
   "main": "index.js",
   "publishConfig": {
@@ -18,5 +18,5 @@
   "dependencies": {
     "@prisma/client": "^4.12.0"
   },
-  "gitHead": "7fedae25615b4b71928e341cd5dca08466305f54"
+  "gitHead": "1503d6853154a97af4783ef88ead473ba214530d"
 }

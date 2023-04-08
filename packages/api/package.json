@@ -1,6 +1,6 @@
 {
   "name": "@web-platform/api",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "",
   "author": "",
   "license": "UNLICENSED",
@@ -25,7 +25,7 @@
     "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
-    "@web-platform/data": "^0.0.20",
+    "@web-platform/data": "^0.0.21",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.2.0"
   },
@@ -69,5 +69,5 @@
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
   },
-  "gitHead": "7fedae25615b4b71928e341cd5dca08466305f54"
+  "gitHead": "1503d6853154a97af4783ef88ead473ba214530d"
 }
