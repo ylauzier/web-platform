@@ -1,6 +1,6 @@
 {
   "name": "web-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "api": "*",
-    "data": "^0.0.1"
+    "data": "^0.0.2"
   }
 }
