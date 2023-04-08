@@ -1,6 +1,6 @@
 {
-  "name": "@web-platform/web-client",
-  "version": "0.0.21",
+  "name": "@yannicklauzier/web-client",
+  "version": "0.0.22",
   "description": "",
   "main": "index.js",
   "publishConfig": {
@@ -13,8 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@web-platform/api": "^0.0.21",
-    "@web-platform/data": "^0.0.21"
+    "@yannicklauzier/api": "^0.0.22",
+    "@yannicklauzier/data": "^0.0.22"
   },
-  "gitHead": "1503d6853154a97af4783ef88ead473ba214530d"
+  "gitHead": "e40045db1bc459e94c15f755cf16419b7a3f3a37"
 }
