@@ -1,6 +1,6 @@
 {
-  "name": "web-client",
-  "version": "0.0.5",
+  "name": "@web-platform/web-client",
+  "version": "0.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,5 @@
     "api": "*",
     "data": "^0.0.5"
   },
-  "gitHead": "0807f702dd2e022612dfae6361aa2d9a6bd06c29"
+  "gitHead": "4068bf848f4bb04011a180ddc9ab9df1297593e8"
 }

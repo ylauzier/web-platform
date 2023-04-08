@@ -1,6 +1,6 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "@web-platform/web-platform",
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
