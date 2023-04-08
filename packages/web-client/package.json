@@ -1,6 +1,6 @@
 {
   "name": "@web-platform/web-client",
-  "version": "0.0.8",
+  "version": "0.0.13",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@web-platform/api": "*",
-    "@web-platform/data": "^0.0.5"
+    "@web-platform/api": "^0.0.13",
+    "@web-platform/data": "^0.0.13"
   },
   "gitHead": "4068bf848f4bb04011a180ddc9ab9df1297593e8"
 }

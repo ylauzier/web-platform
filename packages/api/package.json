@@ -1,9 +1,9 @@
 {
   "name": "@web-platform/api",
-  "version": "0.0.1",
+  "version": "0.0.13",
   "description": "",
   "author": "",
-  "private": true,
+  "private": false,
   "license": "UNLICENSED",
   "scripts": {
     "build": "nest build",
@@ -23,9 +23,9 @@
     "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
+    "@web-platform/data": "^0.0.13",
     "reflect-metadata": "^0.1.13",
-    "rxjs": "^7.2.0",
-    "@web-platform/data": "*"
+    "rxjs": "^7.2.0"
   },
   "devDependencies": {
     "@nestjs/cli": "^9.0.0",
