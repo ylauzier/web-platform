@@ -1,9 +1,12 @@
 {
   "name": "@web-platform/api",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "",
   "author": "",
   "license": "UNLICENSED",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
@@ -22,7 +25,7 @@
     "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
-    "@web-platform/data": "^0.0.14",
+    "@web-platform/data": "^0.0.15",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.2.0"
   },
@@ -66,5 +69,5 @@
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
   },
-  "gitHead": "e71f8a17440188e54b79f2b8addfe2bd35d6cad3"
+  "gitHead": "f95ead108d9245f9d27cbcded72213a6b35befa8"
 }

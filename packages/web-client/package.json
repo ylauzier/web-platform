@@ -1,8 +1,11 @@
 {
   "name": "@web-platform/web-client",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@web-platform/api": "^0.0.14",
-    "@web-platform/data": "^0.0.14"
+    "@web-platform/api": "^0.0.15",
+    "@web-platform/data": "^0.0.15"
   },
-  "gitHead": "e71f8a17440188e54b79f2b8addfe2bd35d6cad3"
+  "gitHead": "f95ead108d9245f9d27cbcded72213a6b35befa8"
 }
